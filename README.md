@@ -4,7 +4,7 @@
 - 👀 I’m interested in Software Development, Data Analytics, Machine Learning, and all related to technology and business.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Web development Projects.
-- 📫 How to reach me: my email megordon@outlook.com
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/mariogordon/
 
 ### Languages and Tools:
 

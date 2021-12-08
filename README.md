@@ -1,9 +1,9 @@
-## Msc in Information Technologies and Telecommunications Engineer
+## Telecommunications Engineer and Software Developer
 
 - 👋 Hi, I’m @maegop
-- 👀 I’m interested in Data Analytics, Machine Learning, and all related to technology and business.
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in Software Development, Data Analytics, Machine Learning, and all related to technology and business.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on Web development Projects.
 - 📫 How to reach me: my email megordon@outlook.com
 
 ### Languages and Tools:
